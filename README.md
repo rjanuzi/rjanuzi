@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rjanuzi
 - 👀 I’m interested in applied technology, mostly in Supply Chain and Science.
-- 🌱 I’m currently learning JavaScript + Node + MongoDB
+- 🌱 I’m currently learning JavaScript + NodeJS + MongoDB
 - 📫 How to reach me https://www.linkedin.com/in/rafael-januzi-4b208118a/
 
 <!---
